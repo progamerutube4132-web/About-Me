@@ -10,7 +10,7 @@ I'm passionate about **creating games** and **web automated apps using Python**.
 - 🖥️ Desktop apps (CustomTkinter)
 
 ## 📌 Featured Project
-- **[Website Manager](https://github.com/progamerutube4132-web/website-manager)** — A Python desktop app that opens your favorite websites instantly with one click.
+- **[Website Manager](https://github.com/progamerutube4132-web/Website-Manager-V2)** — A Python desktop app that opens your favorite websites instantly with one click.
 
 ## 📫 How to Reach Me
 _(progamerutube4132@gmail.com)_
